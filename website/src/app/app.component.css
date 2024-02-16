@@ -1,0 +1,17 @@
+.header-container {
+ 
+  }
+  
+  .profilePicture {
+    width: 10%; 
+    /* display: block;  */
+    border-radius: 50%;
+  }
+  
+  .amdocsLogo{
+    width:20%;
+  }
+
+  .intoduction{
+    width:50%;
+  }
